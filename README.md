@@ -1,6 +1,11 @@
 # Su-Termux
 `Hi`
 
+### updates tool
+```
+(cd Su-Termux && git pull)
+```
+
 ### Installed 
 
 ```
